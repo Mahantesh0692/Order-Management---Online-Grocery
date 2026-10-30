@@ -1,0 +1,1 @@
+package com.grocery; import org.springframework.boot.*; import org.springframework.boot.autoconfigure.*; @SpringBootApplication public class GroceryApplication{ public static void main(String[] a){SpringApplication.run(GroceryApplication.class,a);} }
